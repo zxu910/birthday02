@@ -36,8 +36,8 @@ var config = {
         bannar_coming: "來點裝飾吧",
         balloons_flying: "欸欸好像少點東西",
         cake_fadein: "來人啊上蛋糕",
-        light_candle: "點上永遠18算的蠟燭",
+        light_candle: "點上永遠18歲的蠟燭",
         wish_message: "說了這麼多 只想祝你生日快樂",
-        story: "一點心情小語",
+        story: "一點碎碎念",
     }
 };
